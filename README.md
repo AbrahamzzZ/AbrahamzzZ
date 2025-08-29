@@ -41,20 +41,20 @@ Actualmente estoy profundizando en tecnologías como .NET, Angular, SQL Server y
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# Top Contributed Repo
 <div align="center">
+
+  # 🚀 Top Contributed Repo
+
   <img src="https://github-contributor-stats.vercel.app/api?username=AbrahamzzZ&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+
+  <br><br>
+
+  ![github-user-contribution](https://github.com/user-attachments/assets/992d7b49-d12a-405e-bfd8-493259232b65)
+  
+  <br><br>
+
+  [![](https://visitcount.itsvg.in/api?id=AbrahamzzZ&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture> 
-
----
-[![](https://visitcount.itsvg.in/api?id=AbrahamzzZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
